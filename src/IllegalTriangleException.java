@@ -12,7 +12,7 @@ public class IllegalTriangleException {
         b = scanner.nextInt();
         System.out.println("enter c:");
         c = scanner.nextInt();
-        System.out.println("enter c:");
+       
 
 
 
